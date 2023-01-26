@@ -1,0 +1,21 @@
+nav :hover{
+    cursor: pointer;
+  }
+  
+.links{
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;
+}
+  
+.links :hover{
+    color: rgb(246, 38, 38);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.logo{
+    color: aqua;
+    font-weight: 800;
+}
